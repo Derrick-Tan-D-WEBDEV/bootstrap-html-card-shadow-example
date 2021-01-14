@@ -1,6 +1,6 @@
 ## Bootstrap HTML Shadow Card Example
 👉<b>Reference from & Credits to Samuel Thornton@codepens </b><br>
-<img src="https://github.com/Derrick-Tan-D-WEBDEV/html-card-shadow-example/blob/main/Card%20Shadow/example.PNG?raw=true" width="700">
+<img src="https://github.com/Derrick-Tan-D-WEBDEV/html-card-shadow-example/blob/main/Card%20Shadow/example.PNG?raw=true" width="700"><br>
 In this project will be showing how to implement different types of shadow to bootstrap cards.
 These examples might be helpful to you when working on your projects and when the time you needed some references!
 Good luck and happy coding!🤗☕
